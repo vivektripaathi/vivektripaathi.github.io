@@ -4,7 +4,7 @@ date: "2025-09-09  02:53:00"
 author: VIVEK_0001
 ---
 
-I recently interviewed for a Backend Engineering position at Vibe Monitor, and I’d like to share my journey through the process. I applied for this role through Internshala. At the time, I was applying to various positions that involved some exposure to AI and was also open to PPO conversion opportunities with competitive offers.
+I recently interviewed for a Backend Engineering position at [Vibe Monitor](https://www.linkedin.com/company/vibemonitor), and I’d like to share my journey through the process. I applied for this role through Internshala. At the time, I was applying to various positions that involved some exposure to AI and was also open to PPO conversion opportunities with competitive offers.
 
 ## Round 1: Assignment
 

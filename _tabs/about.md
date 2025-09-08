@@ -1,7 +1,7 @@
 ---
 # the default layout is 'page'
 icon: fas fa-info-circle
-order: 5
+order: 2
 ---
 
 <h1 align="center">👨‍💻 Vivek Tripathi</h1>
@@ -20,34 +20,64 @@ order: 5
 
 ## 🚀 About Me
 
-A Software Developer with strong skills in back-end development, quick learner, and having more than 1 year of industrial experience in building robust and scalable backend services. Based in Lucknow, India.
+A passionate software developer with 2+ years of experience with strong cross-stack skills, from building robust backend systems to creating production-grade frontend components.
 
-- 🔭 Currently working at ONBO as a Backend Developer Intern.
+- 🔭 Currently working at [smallcase](https://www.smallcase.com/) as a Backend Intern.
 - 🌱 Always learning and exploring new technologies.
-- 💡 Passionate about building scalable micro-services.
-- 🛠️ Experienced in AI-driven development and third-party API integration.
+- 💡 Passionate about building scalable micro-services and AI agent to boost productivity.
+- 🛠️ Experienced in AI-driven development and third-party API integration, prompt engineering and generative AI.
 
 ## 🛠️ Tech Stack
 
 <span align="center">
-    <img src = "https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt = "HTML5"/>
-    <img src = "https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt = "CSS3"/>
-    <img src = "https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt = "JavaScript"/>
-    <img src = "https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt = "TypeScript"/>
-    <img src = "https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt = "js"/>
-    <img src = "https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt = "React"/>
-    <img src = "https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt = "Python"/>
-    <img src = "https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt = "Django"/>
-    <img src = "https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt = "PostgreSQL"/>
-    <img src = "https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" alt = "Docker"/>
-    <img src = "https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt = "Express"/>
-    <img src = "https://img.shields.io/badge/Keycloak-1572B6?style=for-the-badge&logo=keycloak&logoColor=white" alt = "Keycloak"/>
-    <img src = "https://img.shields.io/badge/git-000000?style=for-the-badge&logo=git&logoColor=white" alt = "Git"/>
-    <img src = "https://img.shields.io/badge/php-FF2D20?style=for-the-badge&logo=php&logoColor=white" alt = "PHP"/>
-    <img src = "https://img.shields.io/badge/mongodb-339933?style=for-the-badge&logo=mongodb&logoColor=white" alt = "MongoDB"/>
-    <img src = "https://img.shields.io/badge/json-316192?style=for-the-badge&logo=json&logoColor=white" alt = "JSON"/>
-    <img src = "https://img.shields.io/badge/markdown-20232A?style=for-the-badge&logo=markdown&logoColor=white" alt = "Markdown"/>
-    <img src = "https://img.shields.io/badge/redis-007ACC?style=for-the-badge&logo=redis&logoColor=white" alt = "Redis"/>
+  ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) 
+  ![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=plastic&logo=node.js&logoColor=white) 
+  ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=plastic&logo=django&logoColor=white) 
+  ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=plastic&logo=postgresql&logoColor=white) 
+  ![Next.js](https://img.shields.io/badge/Next.js-000000?style=plastic&logo=next.js&logoColor=white) 
+  ![SvelteKit](https://img.shields.io/badge/SvelteKit-%23FF3E00.svg?style=plastic&logo=svelte&logoColor=white) 
+  ![Database Design](https://img.shields.io/badge/Database%20Design-336791?style=plastic&logo=databricks&logoColor=white) 
+  ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=plastic&logo=supabase&logoColor=white) 
+  ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=plastic&logo=typescript&logoColor=white) 
+  ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=plastic&logo=nestjs&logoColor=white) 
+  ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=plastic&logo=docker&logoColor=white) 
+  ![CI/CD](https://img.shields.io/badge/CI%2FCD-1C1C1C?style=plastic&logo=github-actions&logoColor=white) 
+  ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=plastic&logo=mongodb&logoColor=white) 
+  ![Redis](https://img.shields.io/badge/Redis-%23DC382D.svg?style=plastic&logo=redis&logoColor=white) 
+  ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=plastic&logo=express&logoColor=%2361DAFB) 
+  ![SQL](https://img.shields.io/badge/SQL-%2300f.svg?style=plastic&logo=postgresql&logoColor=white) 
+  ![NoSQL](https://img.shields.io/badge/NoSQL-CC3333?style=plastic&logo=mongodb&logoColor=white) 
+  ![Azure](https://img.shields.io/badge/Azure-0078D4?style=plastic&logo=microsoft-azure&logoColor=white) 
+  ![AWS EC2](https://img.shields.io/badge/AWS%20EC2-FF9900?style=plastic&logo=amazon-ec2&logoColor=white) 
+  ![AWS Lambda](https://img.shields.io/badge/AWS%20Lambda-FD9B00?style=plastic&logo=aws-lambda&logoColor=white) 
+  ![Amazon RDS](https://img.shields.io/badge/Amazon%20RDS-527FFF?style=plastic&logo=amazonrds&logoColor=white) 
+  ![AWS S3](https://img.shields.io/badge/AWS%20S3-569A31?style=plastic&logo=amazon-s3&logoColor=white) 
+  ![Serverless](https://img.shields.io/badge/Serverless-FD5750?style=plastic&logo=serverless&logoColor=white) 
+  ![HTML](https://img.shields.io/badge/HTML-%23E34F26.svg?style=plastic&logo=html5&logoColor=white) 
+  ![CSS](https://img.shields.io/badge/CSS-%231572B6.svg?style=plastic&logo=css3&logoColor=white) 
+  ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E) 
+  ![Git](https://img.shields.io/badge/GIT-%23F05032.svg?style=plastic&logo=git&logoColor=white) 
+  ![Operating System](https://img.shields.io/badge/Operating%20System-%23007ACC.svg?style=plastic&logo=linux&logoColor=white) 
+  ![OOP](https://img.shields.io/badge/OOP-%23E44D26.svg?style=plastic&logo=oop&logoColor=white) 
+  ![N8N](https://img.shields.io/badge/n8n-FF6A3E?style=plastic&logo=n8n&logoColor=white) 
+  ![React](https://img.shields.io/badge/react-%2320232a.svg?style=plastic&logo=react&logoColor=%2361DAFB) 
+  ![PHP](https://img.shields.io/badge/PHP-777BB4?style=plastic&logo=php&logoColor=white) 
+  ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=plastic&logo=openjdk&logoColor=white) 
+  ![Keycloak](https://img.shields.io/badge/Keycloak-111921?style=plastic&logo=keycloak&logoColor=white) 
+  ![Functional Programming](https://img.shields.io/badge/Functional%20Programming-8E44AD?style=plastic&logo=function&logoColor=white)
+  ![DSA](https://img.shields.io/badge/Data%20Structures%20%26%20Algorithms-%2343853D.svg?style=plastic&logo=algorithms&logoColor=white)
+  ![Clean Architecture](https://img.shields.io/badge/Clean%20Architecture-2C3E50?style=plastic&logo=clean-architecture&logoColor=white)
+  ![Domain-Driven Design](https://img.shields.io/badge/Domain--Driven%20Design-34495E?style=plastic&logo=ddd&logoColor=white) 
+  ![Deno](https://img.shields.io/badge/Deno-%23000000.svg?style=plastic&logo=deno&logoColor=white)
+  ![Svelte 5](https://img.shields.io/badge/Svelte%205-orange?style=plastic&logo=svelte&logoColor=white)
+  ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=plastic&logo=prisma&logoColor=white)
+  ![Turborepo](https://img.shields.io/badge/Turborepo-000000?style=plastic&logo=turborepo&logoColor=white)
+  ![AI SDK](https://img.shields.io/badge/AI%20SDK-8A2BE2?style=plastic&logo=artificial-intelligence&logoColor=white)
+  ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=plastic&logo=grafana&logoColor=white)
+  ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=plastic&logo=prometheus&logoColor=white)
+  ![Loki](https://img.shields.io/badge/Loki-0C1E3E?style=plastic&logo=grafana-loki&logoColor=white)
+  ![Tempo](https://img.shields.io/badge/Tempo-311C87?style=plastic&logo=grafana-tempo&logoColor=white)
+  ![OpenTelemetry](https://img.shields.io/badge/OpenTelemetry-000000?style=plastic&logo=opentelemetry&logoColor=white)
 </span>
 
 ## 🎓 Education

@@ -1,8 +1,7 @@
 ---
 icon: fas fa-briefcase
-order: 4
+order: 3
 ---
-# 💼 Work Experience
 
 ## Backend Developer at [ONBO](https://www.onbo.today/ ) (10/2023 - Present)
 

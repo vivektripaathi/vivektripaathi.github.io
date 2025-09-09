@@ -82,5 +82,5 @@ A passionate software developer with 2+ years of experience with strong cross-st
 
 ## 🎓 Education
 
-- **Bachelor of Technology (B.Tech)** - Kamla Nehru Institute of Technology, Sultanpur (08/2023 - Present)
+- **Bachelor of Technology (B.Tech)** - Kamla Nehru Institute of Technology, Sultanpur (08/2023 - Present, 8.77 CGPA)
 - **Diploma** - Hewett Polytechnic, Lucknow (AICTE board) (2020 - 2023, 75%)

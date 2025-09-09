@@ -11,7 +11,7 @@ order: 3
 - Contributed to a NestJS-based integration microservice for connecting PandaDoc and DocuSign, implementing clean architecture and domain-driven design.
 - Architected a series of utility scripts leveraging Deno and TypeScript with Windmill, streamlining backend operations and reducing API response times.
 
-## Backend Developer at [xFlowLabs](https://gekko.pages.dev/) (06/2024 - 08/2024)
+## Backend Developer at [xFlowLabs](https://github.com/xflowlabs/) (06/2024 - 08/2024)
 
 - Architected and implemented a scalable database.
 - Designed and implemented scalable functionality for resource capping at both the tenant and user levels.

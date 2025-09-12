@@ -43,4 +43,4 @@ There were a few general questions like what I would bring to the team as an int
 
 ## **Final Verdict**
 
-On the same day as the last round, I got the call: **I was selected and offered the Backend Intern role at Smallcase!** We discussed joining dates and next steps, and I’m thrilled to share that I accepted the offer. On the same day of the cultural fit round, I got a call from Smallcase. They told me that I had been selected and we discussed things like the earliest date I could join a
+On the same day as the last round, I got the call: **I was selected and offered the Backend Intern role at Smallcase! 🥳** then we discussed joining dates and next steps, and I’m thrilled to share that I accepted the offer.

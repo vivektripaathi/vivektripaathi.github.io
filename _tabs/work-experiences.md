@@ -3,7 +3,7 @@ icon: fas fa-briefcase
 order: 3
 ---
 
-# Backend Intern at [SmallCase](https://www.smallcase.com/) (08/2025 - Present)
+# Backend Intern at [SmallCase](https://www.smallcase.com/) (09/2025 - Present)
 
 ## Full Stack Developer Intern at [R2i2 Partners](https://www.r2i2.in/) (12/2024 - 08/2025)
 
